@@ -1,0 +1,23 @@
+
+*{
+  box-sizing: border-box;
+  
+}
+
+
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+.card{
+  margin-left: 10rem;
+  margin-top: 2rem;
+}
+.profile-card{
+  margin-top: 2rem;
+}
+.task{
+  margin-top: 2rem;
+}
